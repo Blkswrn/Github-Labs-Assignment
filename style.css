@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #1e1e1e;
+  color: #f4f1ee;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #2d2b2a;
+  padding: 1rem;
+  text-align: center;
+  border-bottom: 1px solid #a68a64;
+}
+
+h1, h2 {
+  font-family: 'Playfair Display', serif;
+}
+
+nav a {
+  color: #a68a64;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 2rem;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 1.5rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #2d2b2a;
+  font-size: 0.8rem;
+  color: #aaa;
+}
